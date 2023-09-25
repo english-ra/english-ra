@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://avatars.githubusercontent.com/u/63851638?v=4" width="100px" />
   <h3>Hi there, I'm Reece 👋</h3>
 </div>
 
