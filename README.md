@@ -5,9 +5,13 @@
 
 ---
 
-### 😀 About Me:
+### 😀 About Me
 
 - 🎓 I've just graduated with a First Class Honours degree in BSc Computer Science from the University of Westminster.
+
+### 👨🏼‍💻 My Projects
+
+- iDSimplify ([Frontend](https://github.com/english-ra/idsimplify-frontend), [Backend](https://github.com/english-ra/idsimplify-backend)) - A centralised portal for managing multiple industry identity management systems (IDMS).
 
 <!--
 **english-ra/english-ra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
