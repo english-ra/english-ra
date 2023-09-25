@@ -1,8 +1,12 @@
-### hi there 👋
+<div align="center">
+  <h3>Hi there, I'm Reece 👋</h3>
+</div>
 
 ---
 
 ### 😀 About Me:
+
+- 🎓 I've just graduated with a First Class Honours degree in BSc Computer Science from the University of Westminster.
 
 <!--
 **english-ra/english-ra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
