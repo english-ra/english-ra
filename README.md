@@ -1,4 +1,8 @@
-### Hi there 👋
+### hi there 👋
+
+---
+
+### 😀 About Me:
 
 <!--
 **english-ra/english-ra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
