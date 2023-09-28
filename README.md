@@ -11,6 +11,7 @@
 
 ### 👨🏼‍💻 My Projects
 
+- Personal Profile - Currently in the process of developing my personal portfolio using the new Astro Framework
 - iDSimplify ([Frontend](https://github.com/english-ra/idsimplify-frontend), [Backend](https://github.com/english-ra/idsimplify-backend)) - A centralised portal for managing multiple industry identity management systems (IDMS).
 
 <!--
