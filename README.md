@@ -7,11 +7,15 @@
 
 ### 😀 About Me
 
-- 🎓 I've just graduated with a First Class Honours degree in BSc Computer Science from the University of Westminster.
+- 🎓 Graduated from the University of Westminster, with a First Class Honours degree in BSc Computer Science.
+
+### 🌱 Currently Learning
+
+- I'm currently learning Next.js, as I plan to use this framework for my next project...
 
 ### 👨🏼‍💻 My Projects
 
-- Personal Profile - Currently in the process of developing my personal portfolio using the new Astro Framework.
+- Personal Profile - Currently in the process of developing my personal portfolio using the Astro Framework.
 - iDSimplify ([Frontend](https://github.com/english-ra/idsimplify-frontend), [Backend](https://github.com/english-ra/idsimplify-backend)) - A centralised portal for managing multiple industry identity management systems (IDMS).
 
 <!--
