@@ -15,10 +15,11 @@
 
 ### 👨🏼‍💻 My Projects
 
-- Personal Profile - Currently in the process of developing my personal portfolio using the Astro Framework.
-- iDSimplify ([Frontend](https://github.com/english-ra/idsimplify-frontend), [Backend](https://github.com/english-ra/idsimplify-backend)) - A centralised portal for managing multiple industry identity management systems (IDMS).
+- Personal Portfolio: Developing my personal portfolio using the Astro Framework.
+- Travelytical: A data platform for aggregating travel data with the goal of improving public transport.
+- iDSimplify ([Frontend](https://github.com/english-ra/idsimplify-frontend), [Backend](https://github.com/english-ra/idsimplify-backend)): A centralised portal for managing multiple industry identity management systems (IDMS).
 
-*Last updated: 03-06-2024*
+*Last updated: 16-09-2024*
 
 <!--
 **english-ra/english-ra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
