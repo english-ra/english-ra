@@ -20,4 +20,4 @@
 - Travelytical: A data platform for aggregating travel data with the goal of improving public transport.
 - iDSimplify ([Frontend](https://github.com/english-ra/idsimplify-frontend), [Backend](https://github.com/english-ra/idsimplify-backend)): A centralised portal for managing multiple industry identity management systems (IDMS).
 
-*Last updated: 15-04-2025*
+*Last updated: 15-05-2025*
