@@ -6,7 +6,7 @@
 
 ### 😀 About Me
 
-- 💼 I currently work as a Software Engineer at Halo (C#, .Net & React).
+- 💼 I am a Software Engineer at Halo (C#, .Net & React).
 - 🎓 Graduated from the University of Westminster, with a First Class Honours degree in BSc Computer Science.
 
-*Last updated: 10-08-2025*
+*Last updated: 17-08-2025*
